@@ -1,0 +1,34 @@
+{
+  "name": "restful-faker",
+  "version": "0.0.0",
+  "description": "faker restful api service",
+  "main": "index.js",
+  "scripts": {
+    "gulp": "gulp"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ansteh/restful-faker.git"
+  },
+  "keywords": [],
+  "files": [
+    "LICENSE",
+    "package.json",
+    "README.md"
+  ],
+  "author": "Andre Stehle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ansteh/restful-faker/issues"
+  },
+  "dependencies": {
+    "json-schema-faker": "^0.3.3"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "express": "^4.13.4"
+  }
+}
