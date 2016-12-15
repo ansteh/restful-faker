@@ -25,10 +25,10 @@
     "url": "https://github.com/ansteh/restful-faker/issues"
   },
   "dependencies": {
-    "json-schema-faker": "^0.3.3"
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "json-schema-faker": "^0.3.7",
+    "json-schema-modeler": "0.0.1"
   },
-  "devDependencies": {
-    "gulp": "^3.9.1",
-    "express": "^4.13.4"
-  }
+  "devDependencies": {}
 }
